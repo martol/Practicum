@@ -5,6 +5,7 @@
 @prefix ual: <http://terms.library.ualberta.ca/> .
 @prefix mods: <http://www.loc.gov/mods/v3/mods.xsd#/>  . #check if this is correct URI
 
+#title
 mods:titleInfo owl:sameAs (dcterms:title - from Metadata DD - GitHub) .
 mods:titleInfo owl:sameAs (SOLR field - make URI) .
 mods:titleInfo (sort/facet - URI forom Metdata DD) (true/false) .       

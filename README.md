@@ -3,7 +3,7 @@ This is test for Practicum
 
 ## Namespaces
 
-## definitions
+## Definitions
    **acceptedValue** values belonging to properties with restricted value parameters (only those displayed on form)  
    **comments** Avalon specific instructions for using or questions about this property  
    **definedBy** a link to the Avalon ontology, including a general description of the property  
@@ -28,7 +28,7 @@ This is test for Practicum
   * (sortYear) (not really know how this relate)
   * terms of use (or license)
   * license (or terms of use)
-  
+
 ### repeat
 ### display
 ### facet
