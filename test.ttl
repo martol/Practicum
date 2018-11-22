@@ -3,9 +3,9 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix ual: <http://terms.library.ualberta.ca/> .
-@prefix mods: <http://www.loc.gov/mods/modsrdf/v1>#  .
+@prefix mods: <http://www.loc.gov/mods/v3/mods.xsd/>#  .
 
-mods:title owl:sameAs dcterms:title
+mods:titleInfo owl:sameAs dcterms:title
            
 
 mods:namePart owl:sameAs dc:creator
