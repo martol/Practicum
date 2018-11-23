@@ -2,9 +2,9 @@
 This is test for Practicum
 
 ## Namespaces
-**dc:**
-**dcterms:**
-**owl:**
+**dc:** http://purl.org/dc/elements/1.1/
+**dcterms:**  http://purl.org/dc/terms/
+**owl:** http://purl.org/dc/terms/
 **ual:** http://terms.library.ualberta.ca/
 
 ## Definitions
