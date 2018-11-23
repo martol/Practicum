@@ -2,6 +2,10 @@
 This is test for Practicum
 
 ## Namespaces
+**dc:**
+**dcterms:**
+**owl:**
+**ual:** http://terms.library.ualberta.ca/
 
 ## Definitions
    **acceptedValue** values belonging to properties with restricted value parameters (only those displayed on form)  
