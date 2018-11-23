@@ -34,17 +34,17 @@ This is test for Practicum
   * license (or terms of use)
 
 ### repeat
-  * Bibliographic ID
-  * Other identifier
-  * **Creator**
-  * Contributor
-  * **Genre**
-  * Publisher
-  * **Language**
-  * **Subject (topical)**
-  * Geographic subject
-  * Temporal subject
-  * **File**
+  * bibliographic ID
+  * other identifier
+  * **creator**
+  * Ccntributor
+  * **genre**
+  * publisher
+  * **language**
+  * **subject (topical)**
+  * geographic subject
+  * temporal subject
+  * **file**
 
 ### display
 ### facet
@@ -52,3 +52,8 @@ This is test for Practicum
 ### onForm
 ### search
 ### sort
+  * title
+  * created
+  * sortYear
+  * subject
+  * creator
