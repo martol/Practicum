@@ -36,12 +36,12 @@ This is test for Practicum
   * Contributor
   * **Genre**
   * Publisher
-  * **Langiage**
+  * **Language**
   * **Subject (topical)**
   * Geographic subject
   * Temporal subject
   * **File**
-  
+
 ### display
 ### facet
 ### indexAs
