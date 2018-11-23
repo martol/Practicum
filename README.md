@@ -30,6 +30,18 @@ This is test for Practicum
   * license (or terms of use)
 
 ### repeat
+  * Bibliographic ID
+  * Other identifier
+  * **Creator**
+  * Contributor
+  * **Genre**
+  * Publisher
+  * **Langiage**
+  * **Subject (topical)**
+  * Geographic subject
+  * Temporal subject
+  * **File**
+  
 ### display
 ### facet
 ### indexAs
