@@ -2,10 +2,10 @@
 This is test for Practicum
 
 ## Namespaces
-**dc:** http://purl.org/dc/elements/1.1/ 
-**dcterms:**  http://purl.org/dc/terms/ 
-**owl:** http://purl.org/dc/terms/ 
-**ual:** http://terms.library.ualberta.ca/  
+* **dc:** http://purl.org/dc/elements/1.1/ 
+* **dcterms:**  http://purl.org/dc/terms/ 
+* **owl:** http://purl.org/dc/terms/ 
+* **ual:** http://terms.library.ualberta.ca/  
 
 ## Definitions
    **acceptedValue** values belonging to properties with restricted value parameters (only those displayed on form)  
