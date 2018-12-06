@@ -3,19 +3,29 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix ual: <http://terms.library.ualberta.ca/> .
-@prefix mods: <http://www.loc.gov/mods/v3/mods.xsd#/>  . #check if this is correct URI
+@prefix mods: <http://www.loc.gov/mods/v3> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
 #title
-mods:titleInfo owl:sameAs (dcterms:title - from Metadata DD - GitHub) .
-mods:titleInfo owl:sameAs (SOLR field - make URI) .
-mods:titleInfo (sort/facet - URI forom Metdata DD) (true/false) .       
+mods:title owl:sameAs dcterms:title .
+mods:title ual:search "true" .
+mods:title ual:sort "true" .
+mods:title ual:dataType "text" .
+mods:title ual:display "true" .
+mods:title ual:displayLable "title" .
+mods:title ual:facet "false" .
+mods:title ual:onForm "true" .
+mods:title ual:repeat "false" .
+mods:title ual:required "true" .
+mods:title rdf:type rdf:Property .
 
-mods:namePart owl:sameAs dc:creator
-mods:namePart owl:sameAs dc:contributor
-mods:genre owl:sameAs dc:type
-mods:dateIssued owl:sameAs dcterms:issued
-mods:languageTerm owl:sameAs dc:language
-mods:topic owl:sameAs dc:subject
-mods:url owl:sameAs dc:identifier
-mods:accessCondition olw:sameAs dc:rights
+mods:namePart owl:sameAs dc:creator'.
+mods:namePart owl:sameAs dc:contributor .
+
+mods:genre owl:sameAs dc:type .
+mods:dateIssued owl:sameAs dcterms:issued .
+mods:languageTerm owl:sameAs dc:language .
+mods:topic owl:sameAs dc:subject .
+mods:url owl:sameAs dc:identifier .
+mods:accessCondition olw:sameAs dc:rights .
 
